@@ -1,6 +1,6 @@
 # EventBase- DeFi Event Ticketing Platform
 
-EventBase is a decentralized event ticketing platform built on KAIA Network that revolutionizes the events industry through DeFi mechanisms. The platform provide instant ticket transactions, fraud-proof NFT tickets, and real-time revenue distribution.
+EventBase is a decentralized event ticketing platform built on Base Network that revolutionizes the events industry through DeFi mechanisms. The platform provide instant ticket transactions, fraud-proof NFT tickets, and real-time revenue distribution.
 
 ## Key Features
 
